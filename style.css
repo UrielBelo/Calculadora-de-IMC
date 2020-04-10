@@ -1,0 +1,12 @@
+html {
+    background-color: aquamarine;
+}
+body {
+    font-family: fantasy;
+    font-size: medium;
+    text-align: center ;
+}
+img {
+    border: 10px solid black;
+    height: 150px;
+}
